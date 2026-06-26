@@ -12,7 +12,7 @@
         <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
     </a>
     &nbsp;
-    <a href="https://medium.com/@prof_code" target="_blank">
+    <a href="https://medium.com/@Dr.Vixar" target="_blank">
      <img src="https://img.shields.io/badge/Blog-black?style=for-the-badge&logo=medium&logoColor=white" />
    </a>
  </p>
