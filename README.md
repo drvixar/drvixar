@@ -4,7 +4,7 @@
 <h1 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sekuya&size=26&letterSpacing=&pause=1000&color=5788ac&center=true&vCenter=true&width=435&lines=Dr.Vixar" alt="Typing SVG" ></h1>
 
 <p>
-    <a href="https://github.com/profcode-dev" target="_blank">
+    <a href="https://github.com/drvixar" target="_blank">
         <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
     &nbsp;
